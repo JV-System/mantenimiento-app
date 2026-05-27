@@ -5,7 +5,7 @@
 //              Network-first para fuentes externas.
 // ================================================
 
-const CACHE_NAME = 'branca-v2';
+const CACHE_NAME = 'branca-v3';
 
 // Archivos que se cachean al instalar la app
 const CACHE_ASSETS = [
